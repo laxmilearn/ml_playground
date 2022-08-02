@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom additions
+.vscode/
+.outputs/.datasets/*
+!.outputs/.datasets/.placeholder
+.outputs/.models/*
+!.outputs/.models/.placeholder
+.outputs/.predictions/*
+!.outputs/.predictions/.placeholder
