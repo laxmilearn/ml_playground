@@ -14,7 +14,7 @@
 
 ### Work Items
 
-#### Setence Transformation Work
+#### WORK-01: Setence Transformation Work
 1. Use spacy (lg module for English) and see the word vectors and do vector operations like ‘king’ - ‘man’ + ‘woman’ and see what word comes out
 2. Use sentence_transformer (again use big module there like paraphrase-multilingual-mpnet-base-v2
  and generate sentence embeddings/vectors
@@ -23,3 +23,11 @@
 THEN:
 1. Find a image module which can dump image vectors (do survey and let us know)
 2. Do similar things as cosine_similiarity of images using multiple images
+
+#### WORK-02: Find Similar Setences
+
+If calculated embeddings/vectors of size 768 for each sentence, take any dataset that has English descriptions (if you don’t find decent one let me know) and then for 200 sentences that you picked 
+1. Dump embeddings to a TSV file for all sentences
+2. Use google embedding projector to see them on canvas (just UI)
+3. See whether you can give similar sentences for each sentence as number (1 is cosine similar to 5, 21, 44 blah). 
+4. You can also see Euclidean distance or similarity and try this as well
