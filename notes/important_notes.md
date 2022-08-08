@@ -31,3 +31,4 @@ If calculated embeddings/vectors of size 768 for each sentence, take any dataset
 2. Use google embedding projector to see them on canvas (just UI)
 3. See whether you can give similar sentences for each sentence as number (1 is cosine similar to 5, 21, 44 blah). 
 4. You can also see Euclidean distance or similarity and try this as well
+
