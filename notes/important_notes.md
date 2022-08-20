@@ -3,9 +3,17 @@
 
 #### Imae Embeddings
 
+Article: Image Embeddings
 - https://rom1504.medium.com/image-embeddings-ed1b194d113e
+
+Article: Learning Computer Vision
 - https://towardsdatascience.com/learning-computer-vision-41398ad9941f
+
+Article: Introduction Feature Detection
 - https://medium.com/@deepanshut041/introduction-to-feature-detection-and-matching-65e27179885d
+
+Dataset: Flowers (from Ternsor Flow)
+- https://www.tensorflow.org/datasets/catalog/tf_flowers
 
 #### Setence Embeddings
 
