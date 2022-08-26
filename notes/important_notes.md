@@ -40,3 +40,20 @@ If calculated embeddings/vectors of size 768 for each sentence, take any dataset
 3. See whether you can give similar sentences for each sentence as number (1 is cosine similar to 5, 21, 44 blah). 
 4. You can also see Euclidean distance or similarity and try this as well
 
+#### WORK-03: Find Similar Images
+
+EfficientNet, FAISS, etc. (see Image Embeddings section above for links)
+
+#### WORK-O4: Image Transformation and Generation
+
+Concepts: Diffusion, CLIP, GLIDE, Latent Diffusion, Stable Diffusion, Diffusers
+
+1. https://github.com/openai/CLIP
+2. https://github.com/openai/glide-text2im
+3. https://github.com/openai/guided-diffusion
+4. https://github.com/CompVis/latent-diffusion
+5. https://github.com/huggingface/diffusers
+
+And after all that you can try:
+https://github.com/CompVis/stable-diffusion this requires key
+
