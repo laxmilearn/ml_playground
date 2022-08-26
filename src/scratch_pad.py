@@ -25,7 +25,13 @@ def play_dict():
   data_values = list(data_dict.values())
   print((type(data_values), data_values.__len__()))
 
-  for i in (range(3)):
-    print(pkg_random.choice(data_values))
+  sample_values = pkg_random.sample(data_values, 3)
+  print("Sample Values = ", sample_values)
 
+def play_array():
+  items = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+  sample_items = pkg_random.sample(items, 3)
+  print(sample_items)
+
+play_array()
 play_dict()
