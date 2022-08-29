@@ -42,7 +42,7 @@ If calculated embeddings/vectors of size 768 for each sentence, take any dataset
 
 #### WORK-03: Find Similar Images
 
-EfficientNet, FAISS, etc. (see Image Embeddings section above for links)
+KNN, EfficientNet, FAISS, etc. (see Image Embeddings section above for links)
 
 #### WORK-O4: Image Transformation and Generation
 
@@ -57,3 +57,6 @@ Concepts: Diffusion, CLIP, GLIDE, Latent Diffusion, Stable Diffusion, Diffusers
 And after all that you can try:
 https://github.com/CompVis/stable-diffusion this requires key
 
+
+https://en.wikipedia.org/wiki/Zero-shot_learning
+https://en.wikipedia.org/wiki/One-shot_learning
